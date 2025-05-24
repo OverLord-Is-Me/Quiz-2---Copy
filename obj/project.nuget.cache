@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GXKWhz3jE3EJScL+IMCOOy8x4CBmgLaz187hWpm9TS2oQC3DZiaifXFImDImCAIQhcU20bD/8Fv4nNVrGAyOjg==",
+  "success": true,
+  "projectFilePath": "D:\\My Pride\\Quiz 2\\Quiz 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OverLord\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\OverLord\\.nuget\\packages\\system.io.abstractions\\20.0.4\\system.io.abstractions.20.0.4.nupkg.sha512",
+    "C:\\Users\\OverLord\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\OverLord\\.nuget\\packages\\testableio.system.io.abstractions\\20.0.4\\testableio.system.io.abstractions.20.0.4.nupkg.sha512",
+    "C:\\Users\\OverLord\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\20.0.4\\testableio.system.io.abstractions.wrappers.20.0.4.nupkg.sha512",
+    "C:\\Users\\OverLord\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.31\\microsoft.windows.sdk.net.ref.10.0.17763.31.nupkg.sha512"
+  ],
+  "logs": []
+}

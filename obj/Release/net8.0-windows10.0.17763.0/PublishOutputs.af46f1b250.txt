@@ -1,0 +1,13 @@
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.exe
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.dll
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.deps.json
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.runtimeconfig.json
+C:\Users\OverLord\Desktop\builds\Quiz\Quiz 2.pdb
+C:\Users\OverLord\Desktop\builds\Quiz\Microsoft.Windows.SDK.NET.dll
+C:\Users\OverLord\Desktop\builds\Quiz\WinRT.Runtime.dll
+C:\Users\OverLord\Desktop\builds\Quiz\System.CodeDom.dll
+C:\Users\OverLord\Desktop\builds\Quiz\System.IO.Abstractions.dll
+C:\Users\OverLord\Desktop\builds\Quiz\System.Management.dll
+C:\Users\OverLord\Desktop\builds\Quiz\TestableIO.System.IO.Abstractions.dll
+C:\Users\OverLord\Desktop\builds\Quiz\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\OverLord\Desktop\builds\Quiz\runtimes\win\lib\net8.0\System.Management.dll
